@@ -46,7 +46,7 @@ export default function RecipeFinder() {
       <div className="flex flex-col gap-4">
         <IngredientInput value={ingredients} onChange={setIngredients} />
         <div className="flex items-center gap-2">
-          <FilterBar value={filters} onChange={setFilters} />
+          {/* <FilterBar value={filters} onChange={setFilters} /> */}
           <Button variant="secondary" onClick={handleClear} className="ml-auto">
             Clear ingredients
           </Button>
