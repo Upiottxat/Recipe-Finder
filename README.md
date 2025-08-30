@@ -55,7 +55,7 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 🌍 Live Demo
 
-🔗 [View Live Site](https://your-deployed-link.vercel.app)  
+🔗 [View Live Site](https://recipe-finder-mu-black.vercel.app/)  
 
 ---
 
