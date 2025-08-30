@@ -2,7 +2,7 @@
 
 A modern recipe web application where users can search for delicious recipes, view details (ingredients, steps, nutrition), and discover new meals based on their available ingredients.  
 
-![Recipe Screenshot](./screenshot.png) <!-- replace with your actual screenshot -->
+![Recipe Screenshot](./ss.png) <!-- replace with your actual screenshot -->
 
 ---
 
